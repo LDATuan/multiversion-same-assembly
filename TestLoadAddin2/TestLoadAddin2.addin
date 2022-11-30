@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>TestLoadAddin2\TestLoadAddin2.dll</Assembly>
+      <ClientId>A08B7EF8-4AD8-4F6D-BCA9-8BBBAB827006</ClientId>
+      <FullClassName>App</FullClassName>
+      <Name>AddinRevit2</Name>
+      <VendorId>THE BIM FACTORY2</VendorId>
+      <VendorDescription>RnD Team2</VendorDescription>	  
+   </AddIn>
+</RevitAddIns>
