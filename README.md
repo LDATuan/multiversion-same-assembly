@@ -6,7 +6,7 @@ The solution for when use 1 assembly with multi version in same application.
 
 Using **PowerShell** to check public key:
 
-    ([system.reflection.assembly]::loadfile(`fullstringpathDll`)).FullName
+    ([system.reflection.assembly]::loadfile([full string pathDll])).FullName
 
 ## Create public key for assembly
 
