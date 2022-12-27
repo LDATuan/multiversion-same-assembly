@@ -12,7 +12,7 @@ Using **PowerShell** to check public key:
 
 In Visual Studio 2022, Tools -> Command Line -> Develop Command Prompt
 
-    sn.exe -k "pathfolerdll\[namekey].snk"
+    sn.exe -k "pathfoler_csproject\[namekey].snk"
 
 ## Set public key for assembly
 
